@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VLinkAppRevame</string>
+    <string name="alphaKeys"> ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</string>
+    <string name="alphaNumericKeys"> 1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</string>
+    <string name="alphaNumericDocumentKeys">1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz</string>
+    <string name="smallAlpha">abcdefghijklmnopqrstuvwxyz1234567890</string>
+    <string name="numericKeys">1234567890</string>
+    <string name="emailKeys"> ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890_.@</string>
+    <string name="blockKeys"> ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890</string>
+    <string name="specialChar"><![CDATA[<,>.?/\"\'}]{[|+=_-)(*&^%$#@!~`]]></string>
+</resources>
